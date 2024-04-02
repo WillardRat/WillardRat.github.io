@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Friend's Pages</title>
+  </head>
+  <body>
+    <h1>Friend's Pages</h1>
+    <p>Visit them</p>
+    <br>
+    <ul>
+      <li><a href="https://kweshuu.github.io/">Kweshuu's page</a><li>
+    </ul>
+  </body>
+</html>
