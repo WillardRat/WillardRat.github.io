@@ -5,3 +5,7 @@
 a:hover {
   color: orange;
 }
+
+* {
+  font-family: "Courier";
+}
