@@ -11,5 +11,5 @@ a:hover {
 }
 
 * {
-  background-image: "https://i.pinimg.com/736x/b5/8e/7b/b58e7b29ff09960a58d3a0c125be746f.jpg";
+  background-image: url("https://i.pinimg.com/736x/b5/8e/7b/b58e7b29ff09960a58d3a0c125be746f.jpg");
 }
